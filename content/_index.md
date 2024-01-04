@@ -103,7 +103,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: ''
+          date_start: '2023'
           description: Awarded to the best performer student worker at COBOD International
           icon: cobod
           organization: COBOD International
