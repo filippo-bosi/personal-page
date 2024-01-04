@@ -76,8 +76,8 @@ sections:
               * Skills: Robot Operating System (ROS), ROS2, Robot assembly, RoboDK, C++, CMake, Qt, Ubuntu, git, RViz, Gazebo, SOLIDWORKS.
         - title: PLC Programmer - BSc Thesis Project
           company: LIAM LAB
-          company_url: ''
-          company_logo: org-x
+          company_url: 'https://www.linkedin.com/company/consorzio-liam/?originalSubdomain=it'
+          company_logo: liamlab
           location: Bologna, Italy
           date_start: '2021-02-01'
           date_end: '2021-10-01'
@@ -102,31 +102,38 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
-          date_end: '2024-01-01'
-          date_start: '2023-01-01'
+          date_end: ''
+          date_start: ''
           description: Awarded to the best performer student worker at COBOD International
           icon: cobod
           organization: COBOD International
           organization_url: https://www.edx.org
-          title: Student Worker of the year
+          title: 'Student Worker of the Year 2023'
         - certificate_url: https://courses.edx.org/certificates/c3133303935c440abc8f19278e750823
           date_end: ''
           date_start: '2022-01-01'
           description: 'AMRx: Autonomous Mobile Robots'
-          icon: datacamp
-          organization: ETH & edX
+          icon: edx
+          organization: ETH Zürich & edX
           organization_url: https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots
-          title: 'Object-Oriented Programming in R'
-          url: ''
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          title: 'AMRx: Autonomous Mobile Robots'
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-03-01'
+          description: 'Score: 102'
+          icon: toefl
+          organization: ETS
+          organization_url: https://www.ets.org/toefl/test-takers/ibt.html
+          title: 'TOEFL iBT'
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-06-01'
+          description: 'Full scholarship awarded to 10 students for taking part in a double degree program with Tongji University, covering expenses during the one year spent in Shanghai, China.'
+          icon: unibo
+          organization: University of Bologna
+          organization_url: https://www.unibo.it/en
+          title: 'AlmaTong Scholarship'
+          url: 'https://corsi.unibo.it/2cycle/AutomationEngineering/almatong-bachelor-programme'
     design:
       columns: '2'
   # - block: collection
