@@ -51,6 +51,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -62,12 +63,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Robotics Engineer - Student Assistant
+          company: COBOD International
+          company_url: 'https://cobod.com/'
+          company_logo: cobod
+          location: Copenhagen
+          date_start: '2022-10-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -86,6 +87,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -240,12 +242,16 @@ sections:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       # coordinates:
       #   latitude: '37.4275'
-      #   longitude: '-122.1697'  
+      #   longitude: '-122.1697' 
       contact_links:
         - icon: linkedin
           icon_pack: fab
-          name: DM Me
+          name: LinkedIn
           link: 'https://www.linkedin.com/in/filippo-bosi/'
+        - icon: github
+          icon_pack: fab
+          name: GitHub
+          link: https://github.com/filippo-bosi
       #   - icon: skype
       #     icon_pack: fab
       #     name: Skype Me
