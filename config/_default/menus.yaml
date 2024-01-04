@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#aboue'
     weight: 10
   - name: Experience
     url: '#experience'
