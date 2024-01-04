@@ -67,7 +67,7 @@ sections:
           company: COBOD International
           company_url: 'https://cobod.com/'
           company_logo: cobod
-          location: Copenhagen
+          location: Copenhagen, Denmark
           date_start: '2022-10-01'
           date_end: ''
           description: |2-
@@ -76,13 +76,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: PLC Programmer - BSc Thesis Project
+          company: LIAM LAB
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Bologna, Italy
+          date_start: '2021-02-01'
+          date_end: '2021-10-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
