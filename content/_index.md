@@ -112,7 +112,7 @@ sections:
         - certificate_url: https://courses.edx.org/certificates/c3133303935c440abc8f19278e750823
           date_end: ''
           date_start: '2022-01-01'
-          description: 'AMRx: Autonomous Mobile Robots'
+          description: 'Completed the 15-weeks online course "AMRx: Autonomous Mobile Robots" organized by ETH Zürich and edX.'
           icon: edx
           organization: ETH Zürich & edX
           organization_url: https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots

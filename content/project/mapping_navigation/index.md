@@ -12,11 +12,6 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: pdf
-    icon_pack: fab
-    name: Paper
-    url: 
 url_code: ''
 url_pdf: 'https://drive.google.com/file/d/1UIl7tiNhj9kDIb1ifatpipaPoLxsXANC/view'
 url_video: 'https://www.youtube.com/watch?v=1bvKjuoLdVE'
