@@ -102,8 +102,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
-          date_end: ''
-          date_start: '2023'
+          date_end: '2023-12-31'
+          date_start: '2023-01-01'
           description: Awarded to the best performer student worker at COBOD International
           icon: cobod
           organization: COBOD International
