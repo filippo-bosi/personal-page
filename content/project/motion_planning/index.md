@@ -9,7 +9,7 @@ date: '2023-03-01T00:00:00Z'
 external_link: ''
 
 image:
-  link: https://drive.google.com/file/d/1dOsIUqIaLRLlCcpyDmYNkjnXz-RlrTMI/view
+  link: 'https://drive.google.com/file/d/1dOsIUqIaLRLlCcpyDmYNkjnXz-RlrTMI/view'
   caption: RRT
   focal_point: Smart
 
