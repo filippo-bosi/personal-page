@@ -71,11 +71,9 @@ sections:
           date_start: '2022-10-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Awarded student worker of the year 2023.
+              * Built and programmed robotic solutions to redefine the construction industry.
+              * Skills: Robot Operating System (ROS), ROS2, Robot assembly, RoboDK, C++, CMake, Qt, Ubuntu, git, RViz, Gazebo, SOLIDWORKS.
         - title: PLC Programmer - BSc Thesis Project
           company: LIAM LAB
           company_url: ''
@@ -83,7 +81,10 @@ sections:
           location: Bologna, Italy
           date_start: '2021-02-01'
           date_end: '2021-10-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              * Developed an algorithm for phasing and buffering e-commerce items.
+              * Tested and debugged the solution on a digital twin of a packaging machine.
+              * Skills: Beckhoff TWINCAT3, ISG-Virtuos, CoDeSys, IEC 61131-3.
     design:
       columns: '2'
   - block: accomplishments
@@ -100,21 +101,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
+          icon: cobod
+          organization: COBOD International
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
