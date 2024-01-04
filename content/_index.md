@@ -101,15 +101,23 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+        - certificate_url: ''
+          date_end: '2024-01-01'
+          date_start: '2023-01-01'
+          description: Awarded to the best performer student worker at COBOD International
           icon: cobod
           organization: COBOD International
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          title: Student Worker of the year
+        - certificate_url: https://courses.edx.org/certificates/c3133303935c440abc8f19278e750823
+          date_end: ''
+          date_start: '2022-01-01'
+          description: 'AMRx: Autonomous Mobile Robots'
+          icon: datacamp
+          organization: ETH & edX
+          organization_url: https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots
+          title: 'Object-Oriented Programming in R'
+          url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
