@@ -180,8 +180,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Mobile Robots
+          tag: Mobile Robots
         - name: Other
           tag: Demo
     design:
