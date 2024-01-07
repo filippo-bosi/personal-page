@@ -1,6 +1,7 @@
 ---
 title: Sampling-based motion planning algorithms
-summary: This was the main project of the course "Robot Task and Motion Planning" at KAIST.
+summary: This was the main project of the course "Robot Task and Motion Planning" at KAIST. 
+This project was intended to make the students truly understand and appreciate why sampling-based motion planning algorithms have become the dominant paradigm in robotics. The students were required to implement several sampling-based algorithms and answer a series of questions that tested their understanding of motion planning algorithms.
 tags:
   - Motion Planning
 date: '2023-05-01T00:00:00Z'
@@ -29,6 +30,7 @@ links:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
 
 This project was intended to make the students truly understand and appreciate why sampling-based motion planning algorithms have become the dominant paradigm in robotics. The students were required to implement several sampling-based algorithms and answer a series of questions that tested their understanding of motion planning algorithms.
 
