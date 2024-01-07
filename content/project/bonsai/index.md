@@ -2,7 +2,6 @@
 title: BonsAI - Your personal plant care assistant
 summary: BonsAI is an intelligent and innovative system aimed at taking care of plants and tracking their health status. One of its key features is indoor/outdoor recognition and the ability to adapt the water schedules based on the weather forecast.BonsAI is an intelligent and innovative system aimed at taking care of plants and tracking their health status. One of its key features is indoor/outdoor recognition and the ability to adapt the water schedules based on the weather forecast.
 tags:
-  - App
   - Automation
 date: '2023-01-01T00:00:00Z'
 
