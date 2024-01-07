@@ -32,6 +32,7 @@ links:
     name: 'ESP32 and Arduino console'
     url: 'https://www.youtube.com/watch?v=scL7wYodEHo'
   - icon: android
+    icon_pack: fab
     name: 'App'
     url: 'https://drive.google.com/file/d/1vH69c6TxRk7Pl2skdrx6AVoWpOdQxWdV/view?usp=drive_link'
 
