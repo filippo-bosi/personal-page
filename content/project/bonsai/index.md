@@ -9,7 +9,7 @@ date: '2023-01-01T00:00:00Z'
 # external_link: ''
 
 image:
-  caption: Photo by Filippo Bosi
+  caption: BonsAI system
   focal_point: Smart
 
 # links:

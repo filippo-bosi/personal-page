@@ -32,6 +32,8 @@ interests:
   - Mobile Robots
   - Path Planning
   - Robot Dynamics
+  - Automation
+  - Travelling
 
 # Education to show in About widget
 education:
