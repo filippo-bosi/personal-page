@@ -9,7 +9,6 @@ date: '2023-05-01T00:00:00Z'
 # external_link: ''
 
 image:
-  link: 'https://drive.google.com/file/d/1dOsIUqIaLRLlCcpyDmYNkjnXz-RlrTMI/view'
   caption: RRT
   focal_point: Smart
 
@@ -34,7 +33,7 @@ links:
 
 This project was intended to make the students truly understand and appreciate why sampling-based motion planning algorithms have become the dominant paradigm in robotics. The students were required to implement several sampling-based algorithms and answer a series of questions that tested their understanding of motion planning algorithms.
 
-![alt sampling-based](sampling-based.gif)
-![alt domain-knowledge](domain-knowledge.gif)
+![alt sampling-based](sampling-based.gif "Sampling-based algorithm")
+![alt domain-knowledge](domain-knowledge.gif "Sampling-based with domain knowledge"s)
 
 Skills: Robotics · Motion Planning · Python
