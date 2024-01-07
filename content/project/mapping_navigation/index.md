@@ -29,9 +29,10 @@ url_video: 'https://www.youtube.com/watch?v=1bvKjuoLdVE'
 Using the TurtleBot3 robot equipped with a laser distance sensor and a camera module for simulation validation. The mapping process involves two methods: teleoperation and frontier-based
 exploration. The obtained maps are transformed into binary occupancy maps using MATLAB. A particle filter is applied to localize the robot’s initial position using sensor data and the map.
 For navigation, two approaches are explored: using the ROS2 Nav2 package for evaluation and implementing a PRM planner in MATLAB. The PRM planner connects the initial and target positions on the free configuration space by generating random configurations and validating collision-free paths. The results demonstrate successful mapping, localization, and navigation of the robot waiter in the coffee shop environment. The presented approach provides insights into the application of Monte Carlo Localization and Probabilistic Roadmap algorithms for mobile robotics.
+{style="text-align: justify;"}
 
-External links:
-[Paper](https://drive.google.com/file/d/1UIl7tiNhj9kDIb1ifatpipaPoLxsXANC/view)
+External links:\
+[Paper](https://drive.google.com/file/d/1UIl7tiNhj9kDIb1ifatpipaPoLxsXANC/view)\
 [YouTube](https://www.youtube.com/watch?v=1bvKjuoLdVE)
 
 ![alt nav2 ROS](nav2.png)
