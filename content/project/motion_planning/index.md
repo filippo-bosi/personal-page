@@ -13,14 +13,16 @@ image:
   caption: RRT
   focal_point: Smart
 
-# links:
-#   - icon: pdf
-#     icon_pack: fab
-#     name: Paper
-#     url: 
-url_code: 'https://github.com/filippo-bosi/sampling-based-motion-planning'
-url_pdf: 'https://docs.google.com/document/d/1iIMVnj3xY7iP46eMXmge3UJtcoLJc9_1y0XWvUjkjMI/view'
-url_video: ''
+links:
+  - icon: document
+    icon_pack: fab
+    name: Report
+    url: 'https://docs.google.com/document/d/1iIMVnj3xY7iP46eMXmge3UJtcoLJc9_1y0XWvUjkjMI/view'
+links:
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    url: 'https://github.com/filippo-bosi/sampling-based-motion-planning'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
