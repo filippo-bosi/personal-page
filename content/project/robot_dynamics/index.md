@@ -9,17 +9,14 @@ date: '2023-06-01T00:00:00Z'
 # external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Aliengo quadruped robot
   focal_point: Smart
 
-# links:
-#   - icon: pdf
-#     icon_pack: fab
-#     name: Paper
-#     url: 
-url_code: 'https://github.com/filippo-bosi/ME553_2023'
-url_pdf: ''
-url_video: ''
+links:
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    url: https://github.com/filippo-bosi/ME553_2023
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -29,10 +26,10 @@ url_video: ''
 # slides: example
 ---
 
-* Exercise 1: position of the front-right foot given any joint angles.
-* Exercise 2: linear and angular velocity of the front-right foot given any joint angles and joint velocities.
-* Exercise 3: mass matrix of the system given the generalized coordinates using Composite Rigid Body Algorithm (CRBA).
-* Exercise 4: nonlinearity of the system given the generalized coordinates and generalized velocities using the Recursive Newton-Euler Algorithm (RNEA).
-* Exercise 5: generalized acceleration for the given generalized coordinate, velocity, and force using Articulated Body Algorithm (ABA).
+* Task 1: position of the front-right foot given any joint angles.
+* Task 2: linear and angular velocity of the front-right foot given any joint angles and joint velocities.
+* Task 3: mass matrix of the system given the generalized coordinates using Composite Rigid Body Algorithm (CRBA).
+* Task 4: nonlinearity of the system given the generalized coordinates and generalized velocities using the Recursive Newton-Euler Algorithm (RNEA).
+* Task 5: generalized acceleration for the given generalized coordinate, velocity, and force using Articulated Body Algorithm (ABA).
 
 Skills: Robotics · Robot Dynamics · C++ · RaiSim · CMake · GitHub

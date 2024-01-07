@@ -18,7 +18,6 @@ links:
     icon_pack: fab
     name: Paper
     url: 'https://drive.google.com/file/d/1UIl7tiNhj9kDIb1ifatpipaPoLxsXANC/view'
-links:
   - icon: youtube
     icon_pack: fab
     name: YouTube
