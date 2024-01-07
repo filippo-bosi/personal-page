@@ -14,8 +14,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: document
-    icon_pack: fab
+  - icon: pdf-solid
     name: Report
     url: 'https://docs.google.com/document/d/1iIMVnj3xY7iP46eMXmge3UJtcoLJc9_1y0XWvUjkjMI/view'
   - icon: github

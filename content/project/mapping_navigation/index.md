@@ -14,8 +14,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: pdf
-    icon_pack: fab
+  - icon: pdf-solid
     name: Paper
     url: 'https://drive.google.com/file/d/1UIl7tiNhj9kDIb1ifatpipaPoLxsXANC/view'
   - icon: youtube

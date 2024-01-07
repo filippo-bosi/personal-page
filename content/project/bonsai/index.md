@@ -23,12 +23,10 @@ links:
     icon_pack: fab
     name: GitHub
     url: 'https://github.com/filippo-bosi/bonsAI'
-links:
   - icon: youtube
     icon_pack: fab
     name: 'BonsAI App'
     url: 'https://www.youtube.com/watch?v=uBbDiCkl2tw'
-links:
   - icon: youtube
     icon_pack: fab
     name: 'ESP32 and Arduino console'
