@@ -13,7 +13,8 @@ image:
   focal_point: Smart
 
 links:
-  - icon: pdf-solid
+  - icon: file-pdf
+    icon_pack: fas
     name: Report
     url: 'https://docs.google.com/document/d/1iIMVnj3xY7iP46eMXmge3UJtcoLJc9_1y0XWvUjkjMI/view'
   - icon: github
