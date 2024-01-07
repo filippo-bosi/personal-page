@@ -3,7 +3,7 @@ title: Whole-body dynamics of a quadruped robot for simulation
 summary: Using the Aliengo quadruped robot model, the goal was to compute different robot parameters with increasing difficulty.
 tags:
   - Mobile Robots
-date: '2023-03-01T00:00:00Z'
+date: '2023-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''

@@ -3,7 +3,7 @@ title: Mapping and Navigation for a Robot Waiter
 summary: This project implements mapping and navigation algorithms for a simulated robot waiter in a coffee shop environment.
 tags:
   - Mobile Robots
-date: '2023-04-01T00:00:00Z'
+date: '2023-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''

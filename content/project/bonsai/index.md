@@ -4,7 +4,7 @@ summary: BonsAI is an intelligent and innovative system aimed at taking care of 
 tags:
   - App
   - Automation
-date: '2023-03-01T00:00:00Z'
+date: '2023-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''

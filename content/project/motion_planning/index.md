@@ -3,7 +3,7 @@ title: Sampling-based motion planning algorithms
 summary: This was the main project of the course "Robot Task and Motion Planning" at KAIST.
 tags:
   - Mobile Robots
-date: '2023-03-01T00:00:00Z'
+date: '2023-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
