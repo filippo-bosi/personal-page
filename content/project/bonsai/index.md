@@ -17,6 +17,11 @@ image:
 #     icon_pack: fab
 #     name: Paper
 #     url: 
+links:
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    url: https://github.com/filippo-bosi/ME553_2023
 url_code: 'https://github.com/filippo-bosi/ME553_2023'
 url_pdf: ''
 url_video: ''

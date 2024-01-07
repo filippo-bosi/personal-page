@@ -182,6 +182,10 @@ sections:
           tag: '*'
         - name: Mobile Robots
           tag: Mobile Robots
+        - name: Motion Planning
+          tag: Motion Planning
+        - name: Automation
+          tag: Automation
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
