@@ -11,7 +11,7 @@ last_name: Bosi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,7 +29,9 @@ bio: Robotics Engineer Student Assistant at COBOD International | MSc Automation
 
 # Interests to show in About widget
 interests:
-  - Mobile Robots
+  - name: Mobile Robots
+    icon: robot
+    icon_pack: fas
   - Path Planning
   - Robot Dynamics
   - Automation
@@ -90,6 +92,10 @@ education:
 #         percent: 80
 #         icon: camera-retro
 #         icon_pack: fas
+
+# Spoken languages
+# languages:
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
