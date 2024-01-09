@@ -29,9 +29,7 @@ bio: Robotics Engineer Student Assistant at COBOD International | MSc Automation
 
 # Interests to show in About widget
 interests:
-  - name: Mobile Robots
-    icon: robot
-    icon_pack: fas
+  - Mobile Robots
   - Path Planning
   - Robot Dynamics
   - Automation
@@ -46,7 +44,7 @@ education:
     - course: Exchange Semester 🇰🇷
       institution: KAIST (Korea Advanced Institute of Science and Technology), Daejeon, South Korea
       year: 2023
-    - course: BSc in Automation Engineering 🇮🇹 
+    - course: BSc in Automation Engineering (Double Degree) 🇮🇹 
       institution: University of Bologna, Bologna, Italy
       year: 2018-2021
     - course: Exchange Year 🇨🇳
