@@ -38,7 +38,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Msc Electrical Engineering - Automation and Robot Technology 🇩🇰
+    - course: MSc Electrical Engineering - Automation and Robot Technology 🇩🇰
       institution: DTU (Technical University of Denmark), Lyngby, Denmark
       year: 2022-2024
     - course: Exchange Semester 🇰🇷
