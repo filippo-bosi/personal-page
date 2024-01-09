@@ -117,7 +117,7 @@ sections:
           organization: ETH Zürich & edX
           organization_url: https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots
           title: 'AMRx: Autonomous Mobile Robots'
-        - certificate_url: ''
+        - certificate_url: uploads/TOEFL_score.pdf
           date_end: ''
           date_start: '2021-03-01'
           description: 'Score: 102'
