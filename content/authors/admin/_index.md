@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Hi I am Filippo! As a Manufacturing Technology Graduate at Novo Nordisk, I plan to leverage my skills in software, architecture, simulation, and robot assembly to design, develop, test, and deploy robotic systems tailored for the pharmaceutical industry. Thriving in dynamic work environments, I am enthusiastic to collaborate closely with industry experts to pioneer innovative robots that push production efficiency to new heights.
+Hi I am Filippo! As a Robotics and Automation Engineer Graduate, I plan to leverage my skills in software, architecture, simulation, and robot assembly to design, develop, test, and deploy robotic systems. Thriving in dynamic work environments, I am enthusiastic to collaborate closely with industry experts to pioneer innovative robots that push production efficiency to new heights.
 {style="text-align: justify;"}
