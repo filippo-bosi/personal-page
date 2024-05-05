@@ -25,7 +25,7 @@ organizations:
     url: https://cobod.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Robotics Engineer Student Assistant at COBOD International | MSc Automation and Robot Technology at DTU.
+bio: Robotics Engineer at COBOD International | MSc Automation and Robot Technology at DTU.
 
 # Interests to show in About widget
 interests:

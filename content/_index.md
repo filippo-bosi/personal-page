@@ -63,17 +63,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Robotics Engineer
+          company: COBOD International
+          company_url: 'https://cobod.com/'
+          company_logo: cobod
+          location: Copenhagen, Denmark
+          date_start: '2023-05-01'
+          date_end: ''
+          description: |2-
+              * Skills: Robot Operating System (ROS), ROS2, ros2_control, Robot assembly, RoboDK, C++, Python, CMake, Qt, Ubuntu, git, RViz, Gazebo, SOLIDWORKS.
         - title: Robotics Engineer - Student Assistant
           company: COBOD International
           company_url: 'https://cobod.com/'
           company_logo: cobod
           location: Copenhagen, Denmark
           date_start: '2022-10-01'
-          date_end: ''
+          date_end: '2023-05-01'
           description: |2-
               * Awarded student worker of the year 2023.
               * Built and programmed robotic solutions to redefine the construction industry.
-              * Skills: Robot Operating System (ROS), ROS2, Robot assembly, RoboDK, C++, CMake, Qt, Ubuntu, git, RViz, Gazebo, SOLIDWORKS.
+              * Skills: Robot Operating System (ROS), ROS2, Robot assembly, RoboDK, C++, Python, CMake, Qt, Ubuntu, git, RViz, Gazebo, SOLIDWORKS.
         - title: PLC Programmer - BSc Thesis Project
           company: LIAM LAB
           company_url: 'https://www.linkedin.com/company/consorzio-liam/?originalSubdomain=it'
